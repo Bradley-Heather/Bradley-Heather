@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Bradley-Heather
-- 👀 I’m interested in Cardano
-- 🌱 I’m currently learning Haskell
-- 💞️ I’m looking to collaborate on Plutus
+- 🌱 I’ve been coding in python for a couple of years now. Just recently I've been delving into Haskell which has been a great shift.
 - 📫 How to reach me bradleymheather@gmail.com
 
 <!---
