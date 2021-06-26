@@ -1,4 +1,4 @@
-- Ex Architect now sLowly falling in love with code.
+- Ex Architect now slowly falling in love with code.
 - I’ve been coding in python for a couple of years now. Just recently I've been delving into Haskell which has been a great shift.
 - bradleymheather@gmail.com
 
