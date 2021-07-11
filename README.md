@@ -1,5 +1,5 @@
 - South African.
-- Ex Architect and avid explorer now slowly falling in love with code...
+- Ex Architect and avid explorer now slowly falling in love with code.
 
 
 <!---
