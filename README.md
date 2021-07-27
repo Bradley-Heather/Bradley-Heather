@@ -1,5 +1,4 @@
-- South African....
-
+- South African..
 
 <!---
 Bradley-Heather/Bradley-Heather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
